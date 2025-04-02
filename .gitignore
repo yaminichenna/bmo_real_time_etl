@@ -1,0 +1,17 @@
+# Virtual environments
+.venv/
+venv/
+env/
+__pycache__/
+
+# IDE files
+.idea/
+
+# Data files
+*.csv
+
+# OS files
+.DS_Store
+
+# Ignore
+.env
