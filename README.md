@@ -19,7 +19,7 @@ This project demonstrates a full-stack **ETL pipeline** using real-time financia
          ↓
 Cleaned Data → PostgreSQL → S3 → Redshift
                                 ↓
-                          Streamlit Dashboard (Hosted on EC2)
+                          Streamlit Dashboard (Hosted on EC2)'''
 
 
 ---
