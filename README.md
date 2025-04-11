@@ -65,7 +65,7 @@ python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 ```
-
+---
 
 
 ## 🔄 Run the ETL Pipeline
@@ -85,11 +85,13 @@ python load/load_to_postgres.py
 python cloud/upload_to_s3.py
 
 ```
-
+---
 
 ## 📷 Dashboard Preview
 
 ![Dashboard Screenshot](dashboard/demo_screenshot.png)
+
+---
 
 ## 📁 Folder Structure
 ```bash
@@ -103,7 +105,7 @@ bmo_real_time_etl/
 ├── README.md
 └── requirements.txt
 ```
-
+---
 
 ## 🧠 What You'll Learn
 
@@ -118,7 +120,7 @@ bmo_real_time_etl/
 - **Creating dashboards with Streamlit**
 
 - **Hosting apps on AWS EC2**
-
+---
 ## 🔮 Future Enhancements
 
 - **⏰ Add Airflow for automation & orchestration**
@@ -130,9 +132,9 @@ bmo_real_time_etl/
 - **📈 Add more KPIs & anomaly detection**
 
 - **📤 Email reports or auto-alerts**
-
+---
 ## 👨‍💻 Author
 **Yamini Chenna**  
 🔗 [GitHub Profile](https://github.com/yaminichenna/bmo_real_time_etl)
 
-
+---
